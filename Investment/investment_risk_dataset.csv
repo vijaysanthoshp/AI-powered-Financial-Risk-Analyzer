@@ -1,0 +1,3 @@
+investment_id,user_id,recommendation,risk_level,stock_symbol,predicted_growth,stock_volatility
+1,101,Buy,1,AAPL,5%,0.017341850424790684
+2,102,Sell,2,TSLA,-3%,0.05247044344974398

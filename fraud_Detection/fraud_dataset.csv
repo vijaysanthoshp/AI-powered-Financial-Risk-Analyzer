@@ -1,0 +1,4 @@
+transaction_id,user_id,amount,currency,transaction_date,category,risk_score,day_of_week,hour_of_day,is_weekend,is_fraud
+1,101,2500.75,USD,2007-05-03 00:00:00,Loan Payment,0.7,3,0,0,0
+2,102,500.0,USD,2024-03-12 12:00:00,Stock Purchase,0.3,1,12,0,0
+3,103,10000.0,USD,2024-03-12 12:10:00,Large Transfer,0.9,1,12,0,1

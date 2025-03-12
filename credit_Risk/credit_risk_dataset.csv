@@ -1,0 +1,5 @@
+user_id,credit_score,loan_approval_chance,risk_factors
+101,650,1,"['High credit utilization', 'Late payments']"
+102,780,2,"['Stable income', 'Low debt-to-income ratio']"
+U102,780,2,"['Stable income', 'Low debt']"
+U103,550,0,"['High debt', 'Missed payments']"
